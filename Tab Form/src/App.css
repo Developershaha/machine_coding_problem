@@ -1,0 +1,29 @@
+.heading-continer {
+  display: flex;
+  text-align: center;
+}
+
+.heading {
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.tab-body {
+  display: flex;
+  border: 1px solid black;
+  height: 200px;
+  padding: 5px;
+}
+
+.error {
+  color: red;
+  display: block;
+  padding-left: 25px;
+  font-size: small;
+}
+
+.button-next {
+  display: inline;
+}
